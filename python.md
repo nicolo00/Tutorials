@@ -741,7 +741,7 @@ sudo apt istall pip
 Ora basta che scriviamo:
 
 ```bash
-pip install <nome libreria
+pip install <nome libreria>
 ```
 
 per installare ogni libreria che esista in python.
