@@ -472,7 +472,7 @@ Si può bloccare il ciclo in un determinato punto
 ```python
 i = 0
 
-while i < 10: # ripete finchè i non è minore di 10
+while i < 10: # Ripete finchè i non è minore di 10
 	print("Valore di i:", i) # E ogni volta scrive questo
 	if i == 4: # Ma se i è arrivato a 4
 		break # Il ciclo si blocca con break
@@ -510,7 +510,7 @@ for x in range(10): # per x nell' "intervallo" di 10 (quindi ripete per 10 volte
 L' input è una cosa che scrivi, quindi un qualcosa che ti chiede il programma.
 
 ```python
-numero = int(input("inserisci un numero compreso tra 1 e 10: ")) # crea una variabile chiamata numero che chiede di inserire un numero (int) quindi un input (input) e scrive questo per farti capire cosa inserire. Ricordati che dopo avwer inserito il numero devi andare a capo premento 'invio'
+numero = int(input("inserisci un numero compreso tra 1 e 10: ")) # Crea una variabile chiamata numero che chiede di inserire un numero (int) quindi un input (input) e scrive questo per farti capire cosa inserire. Ricordati che dopo aver inserito il numero devi andare a capo premento 'invio', ci sono diversi tipi di input, tra i più utilizzati: float(input("")), int(input("")), str(input(""))
 
 # Quindi ora ci puoi lavorare come una variabile:
 
