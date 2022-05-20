@@ -94,7 +94,8 @@ Per questo viene utlizzato in molte aziende e da privati.
 ### 2. Output
 
 Iniziamo a creare il nostro progetto in Python. andiamo su [replit](https://replit.com/), creiamo un'account e creiamo un nuovo progetto, il file deve finire con *.py* che è l'estensione per python. Solitamente il nome del file principale è main.py (in italiano principale.python).
-aprendolo vedremo questa schermata:
+
+Aprendolo vedremo questa schermata:
 ![immagine 1](1.PNG)
 quindi sapremo che stiamo lavorando nel file giusto.
 
@@ -103,7 +104,15 @@ Si scrive qui:
 
 a sinistra c'è il codice che noi scriveremo, a destra sarà la console del programma, quindi quello che ci sarà in output.
 
-Più si va giù con le righe più il programma va avanti, come un tema in inglese
+Più si va giù con le righe più il programma va avanti, come un tema in inglese, seguendo un'istruzione dopo l'altra: un esempio veloce potrebbe essere:
+
+<ol>
+	<li>Prendo il toast</li>
+	<li>Lo inserisco nel tostapane</li>
+	<li>Aspetto che si scaldi</li>
+	<li>Lo farcisco con il prosciutto</li>
+	<li>Lo mangio</li>
+</ol>
 
 Iniziamo a scrivere questo:
 ```python
