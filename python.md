@@ -66,6 +66,26 @@ Python è un linguaggio di programmazione ad alto livello, cioè l'umano riesce 
 			Utilizzato (con la libreria Django) per creare applicativi Web
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<ul>
+				<li>Software PC</li>
+			</ul>
+		</td>
+		<td>
+			Utilizzato per creare software (app) per PC, MacOS e Linux
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<ul>
+				<li>Applicazioni Smartphone</li>
+			</ul>
+		</td>
+		<td>
+			Utilizzato per creare applicazioni per Android e iOS
+		</td>
+	</tr>
 </table>
 Per questo viene utlizzato in molte aziende e da privati.
 
