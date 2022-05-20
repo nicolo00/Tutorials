@@ -147,6 +147,23 @@ numero2 = int(14) # Come prima cosa, i nomi delle variabili non possono essere u
 
 global essere_online = False # Questa variabile è un po' particolare, si chiama variabile globale, perchè può essere presa dovunque nel programma, come vedremo dopo nelle funzioni esterne
 ```
+Si possono scrivere in diversi modi (I nomi non possono essere uguali uno all'altro):
+
+```python
+# Quelli che vanno bene
+numero = 16
+Numero = 16
+numero_1 = 16
+numero_Numero = 16
+Numero_Numero = 16
+_numero = 16
+
+# Quelli che NON vanno bene
+1numero = 16
+numero-1 = 16
+numero 1 = 16
+```
+
 Ora vediamo come utilizzarle (cancelliamo pure print("Ciao!") ):
 
 <a name="4"></a>
