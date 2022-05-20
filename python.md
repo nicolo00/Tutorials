@@ -93,7 +93,7 @@ Per questo viene utlizzato in molte aziende e da privati.
 
 ### 2. Output
 
-Iniziamo a creare in nostro progetto in Python. andiamo su [replit](https://replit.com/), creiamo un'account e creiamo un nuovo progetto, il file deve finire con *.py* che è l'estensione per python. Solitamente il nome del file principale è main.py .
+Iniziamo a creare il nostro progetto in Python. andiamo su [replit](https://replit.com/), creiamo un'account e creiamo un nuovo progetto, il file deve finire con *.py* che è l'estensione per python. Solitamente il nome del file principale è main.py (in italiano principale.python).
 aprendolo vedremo questa schermata:
 ![immagine 1](1.PNG)
 quindi sapremo che stiamo lavorando nel file giusto.
