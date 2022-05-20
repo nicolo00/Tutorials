@@ -423,7 +423,7 @@ classe = {
 
 Le condizioni sono MOLTO utili nella programmazione. servono a far 'pensare' al programma:
 
-*Se a è maggiore di b? Coa faccio?*
+*Se a è maggiore di b? Cosa faccio?*
 
 Ora lo vediamo:
 
