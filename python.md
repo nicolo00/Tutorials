@@ -133,7 +133,7 @@ Le variabili sono dei contenitori di dati, c'è ne possono essere di tipi divers
 	<li>Float: Numero decimale (3.14)</li>
 	<li>String: Stringa di testo ("Ciao a tutti!")</li>
 	<li>Char: Una sola lettera ('a' oppure 'A')</li>
-	<li>Booleano: E' un valore che può essere o vero (True) o falso (False), lo vedremo meglio in futuro</li>
+	<li>Booleano: E' un valore che può essere o vero (True) o falso (False), lo vedremo meglio dopo</li>
 </ul>
 
 ```python
